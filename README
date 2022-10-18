@@ -1,0 +1,13 @@
+ews - Enforce HTTP Web Server
+
+Brief: A HTTP Web Server
+Author: General Secretary
+LICENSE: GPL-3
+
+Required Tools:
+	gcc, make
+
+External Libs:
+	libal
+	libclog
+	inih

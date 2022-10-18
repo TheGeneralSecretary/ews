@@ -1,0 +1,9 @@
+[submodule "external/libclog"]
+	path = external/libclog
+	url = https://github.com/TheGeneralSecretary/libclog.git
+[submodule "external/libal"]
+	path = external/libal
+	url = https://github.com/TheGeneralSecretary/libal.git
+[submodule "external/inih"]
+	path = external/inih
+	url = https://github.com/benhoyt/inih
